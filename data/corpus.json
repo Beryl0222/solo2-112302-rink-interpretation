@@ -1,0 +1,52 @@
+{
+  "project": "冰球判罚笔录的多语复议与比赛恢复",
+  "material_title": "判词、停表摘录与复议来文",
+  "material_nature": "本地合成演练资料",
+  "records": [
+    {
+      "kind": "match",
+      "id": "m1",
+      "text": "邀请赛第一场|北湾队 7 号为岑一；林岸队 7 号为艾诺。节内时钟从 20:00 倒数。"
+    },
+    {
+      "kind": "match",
+      "id": "m2",
+      "text": "邀请赛第二场|同两队，同样交换主客顺序。仍使用相同号码。"
+    },
+    {
+      "kind": "ruling",
+      "id": "r1",
+      "text": "m1 第一节 04:20|北湾7号小罚两分钟；同次接触另附加两分钟，其后接续。班席由北湾12号代坐后段。"
+    },
+    {
+      "kind": "ruling",
+      "id": "r2",
+      "text": "m1 第一节 03:40|林岸7号另小罚两分钟，由本人服罚。"
+    },
+    {
+      "kind": "interpretation",
+      "id": "i1",
+      "text": "m1 第一节停表 03:10|Keep the first minor, lift the added one. North second bench only."
+    },
+    {
+      "kind": "interpretation",
+      "id": "i2",
+      "text": "赛后口译便笺|7号不用坐满。第三句是领队提出“应撤销所有处罚”。"
+    },
+    {
+      "kind": "clock",
+      "id": "c1",
+      "text": "m1 第一节|04:20 起算 r1 主罚，03:40 起算 r2，03:10 停止计时。暂停未消耗场上时钟。"
+    },
+    {
+      "kind": "appeal",
+      "id": "a1",
+      "text": "m1 复议原话|北湾那次接触的附加段取消，原小罚仍有效；记录不要把林岸另一回合算进去。"
+    },
+    {
+      "kind": "release",
+      "id": "e1",
+      "text": "复议前已发|记分席收过 r1 和 r2 的整场临时服罚单。"
+    }
+  ]
+}
